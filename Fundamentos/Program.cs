@@ -3,14 +3,14 @@
 // // ----------- WHILE --------------------
 
 
-int numero = 10;
-int contador = 0;
+// int numero = 10;
+// int contador = 0;
 
-while (numero >= contador )
-{
-    Console.WriteLine($"Contador está no numero {contador}");
-    contador++;
-}
+// while (numero >= contador )
+// {
+//     Console.WriteLine($"Contador está no numero {contador}");
+//     contador++;
+// }
 
 
 
