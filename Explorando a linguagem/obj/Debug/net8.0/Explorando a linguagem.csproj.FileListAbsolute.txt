@@ -1,0 +1,15 @@
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\bin\Debug\net8.0\Explorando a linguagem.exe
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\bin\Debug\net8.0\Explorando a linguagem.deps.json
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\bin\Debug\net8.0\Explorando a linguagem.runtimeconfig.json
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\bin\Debug\net8.0\Explorando a linguagem.dll
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\bin\Debug\net8.0\Explorando a linguagem.pdb
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\Explorando a linguagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\Explorando a linguagem.AssemblyInfoInputs.cache
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\Explorando a linguagem.AssemblyInfo.cs
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\Explorando a linguagem.csproj.CoreCompileInputs.cache
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\Explorando a linguagem.sourcelink.json
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\Explorando a linguagem.dll
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\refint\Explorando a linguagem.dll
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\Explorando a linguagem.pdb
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\Explorando a linguagem.genruntimeconfig.cache
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\ref\Explorando a linguagem.dll
