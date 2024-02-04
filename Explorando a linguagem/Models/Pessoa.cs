@@ -7,12 +7,40 @@ namespace Explorando_a_linguagem.Models
 {
     public class Pessoa
     {
-        public string Nome { get; set; }
-        public int Idade { get; set; }
+        private string _nome;
+        private int _idade;
+            public string Nome 
+        {
+            get => _nome; 
+            set
+            {
+                if (value == "")
+                {
+                    throw new ArgumentException("Nome nao pode ser vazio");
+                }
+                _nome = value;
+            }
+        }              
 
+        public string Sobrenome { get; set; }
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
+        
+        public int Idade 
+        { 
+            get => _idade;
+            
+            set
+            {
+                if(value < 0)
+                {
+                    throw new ArgumentException("Idade nao pode ser menor que zero");
+                }
+                _idade = value;
+            }
+        }
         public void Apresentar()
         {
-            System.Console.WriteLine($"Nome: {Nome}, Idade: {Idade}");
+            System.Console.WriteLine($"{NomeCompleto}, Idade: {Idade}");
 
 
         }
