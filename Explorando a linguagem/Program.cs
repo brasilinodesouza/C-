@@ -1,9 +1,19 @@
 ﻿using Explorando_a_linguagem.Models;
 
-Pessoa p1 = new Pessoa();
+Pessoa p1 = new Pessoa("Brasilino","de souza neto");
+Pessoa p2 = new Pessoa(nome:"Mickaelly", sobrenome:"Mafra");
 
-p1.Nome = "brasilino";
-p1.Idade = 20;
-p1.Sobrenome = "de Souza Neto";
-p1.Apresentar();
+
+
+Curso cursoDeIngles = new Curso();
+cursoDeIngles.Nome = "Ingles";
+cursoDeIngles.Alunos = new List<Pessoa>();
+
+cursoDeIngles.AdicionarAluno(p1);
+cursoDeIngles.AdicionarAluno(p2);
+cursoDeIngles.ListarAluno();
+
+
+
+
 
