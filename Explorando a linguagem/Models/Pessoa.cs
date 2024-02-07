@@ -15,7 +15,6 @@ namespace Explorando_a_linguagem.Models
         {
             Nome = nome;
             Sobrenome = sobrenome;
-
         }
 
        

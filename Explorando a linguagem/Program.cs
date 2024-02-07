@@ -1,7 +1,7 @@
 ﻿using Explorando_a_linguagem.Models;
 
-Pessoa p1 = new Pessoa("Brasilino","de souza neto");
-Pessoa p2 = new Pessoa(nome:"Mickaelly", sobrenome:"Mafra");
+Pessoa p1 = new Pessoa("Brasilino","de Souza Neto");
+Pessoa p2 = new Pessoa("Mickaelly", "Mafra");
 
 
 

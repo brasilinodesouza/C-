@@ -28,10 +28,17 @@ namespace Explorando_a_linguagem.Models
         public void ListarAluno()
         {
             System.Console.WriteLine("Alunos do Matriculados:");
-            foreach (Pessoa aluno in Alunos)
+            
+            for (int count = 0; count < Alunos.Count; count++)
             {
-                System.Console.WriteLine(aluno.NomeCompleto);
+                string texto = $"Nº {count +1} - {Alunos[count].NomeCompleto} ";
+                System.Console.WriteLine(texto);
+                
             }
+            
+            
+            
+           
         }
 
 
