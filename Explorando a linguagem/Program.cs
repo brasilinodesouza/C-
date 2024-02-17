@@ -4,6 +4,23 @@ using System.Globalization;
 
 
 
+//--------- TUUUUUUUUUUUUUUUUUUUPLA
+
+LeituraAquivo arquivo = new LeituraAquivo();
+
+var (sucesso, linhasArquivo, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+
+if (sucesso)
+{
+    System.Console.WriteLine("Quantidade linhas: " + quantidadeLinhas);
+    foreach (string linhas in linhasArquivo)
+    {
+        System.Console.WriteLine(linhas);
+    }
+}else{
+    System.Console.WriteLine("Não foi possivel ler o arquivo");
+}
 
 
 
@@ -18,6 +35,15 @@ using System.Globalization;
 
 
 
+
+
+
+
+// (int Id, string Nome, string Sobrenome) tupla = (1, "Brasilino", "de Souza Neto");
+
+// System.Console.WriteLine($"Id: {tupla.Id}");
+// System.Console.WriteLine($"Nome: {tupla.Nome}");
+// System.Console.WriteLine($"Sobrneome: {tupla.Sobrenome}");
 
 
 
@@ -41,20 +67,6 @@ using System.Globalization;
 // {
 //     System.Console.WriteLine(item);
 // }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
