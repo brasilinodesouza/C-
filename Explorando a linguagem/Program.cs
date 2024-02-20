@@ -4,23 +4,46 @@ using System.Globalization;
 
 
 
-//--------- TUUUUUUUUUUUUUUUUUUUPLA
-
-LeituraAquivo arquivo = new LeituraAquivo();
-
-var (sucesso, linhasArquivo, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
 
 
-if (sucesso)
-{
-    System.Console.WriteLine("Quantidade linhas: " + quantidadeLinhas);
-    foreach (string linhas in linhasArquivo)
-    {
-        System.Console.WriteLine(linhas);
-    }
-}else{
-    System.Console.WriteLine("Não foi possivel ler o arquivo");
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //--------- TUUUUUUUUUUUUUUUUUUUPLA
+
+// LeituraAquivo arquivo = new LeituraAquivo();
+
+// var (sucesso, linhasArquivo, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+
+// if (sucesso)
+// {
+//     System.Console.WriteLine("Quantidade linhas: " + quantidadeLinhas);
+//     foreach (string linhas in linhasArquivo)
+//     {
+//         System.Console.WriteLine(linhas);
+//     }
+// }else{
+//     System.Console.WriteLine("Não foi possivel ler o arquivo");
+// }
 
 
 
