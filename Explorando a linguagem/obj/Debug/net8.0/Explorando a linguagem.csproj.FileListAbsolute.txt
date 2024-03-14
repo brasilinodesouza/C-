@@ -13,3 +13,6 @@ C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\re
 C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\Explorando a linguagem.pdb
 C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\Explorando a linguagem.genruntimeconfig.cache
 C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\ref\Explorando a linguagem.dll
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\Explorando a linguagem.csproj.AssemblyReference.cache
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\bagul\OneDrive\Documentos\C#\Explorando a linguagem\obj\Debug\net8.0\Explorando a linguagem.csproj.CopyComplete

@@ -1,13 +1,18 @@
 ﻿using Explorando_a_linguagem.Models;
 using System.Globalization;
+//using Models;
 
 
+bool? desejaReceberEmail = false;
 
-
-
-
-
-
+if (desejaReceberEmail.HasValue && desejaReceberEmail.Value)
+    {
+        System.Console.WriteLine("SIM PARA EMAIL");
+    }
+else
+    {   
+        System.Console.WriteLine("NAO PRA EMAIL");
+    }
 
 
 

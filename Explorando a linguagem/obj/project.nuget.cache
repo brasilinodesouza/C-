@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "g10rPfn+yA/RxdncjQ0xgb4shRtK6B5gtnsUoRWVIP2zczFY97tq84CKVIKfS3/mJPjYikJ9sSP2un6WUo+FtQ==",
+  "dgSpecHash": "Om4mLyXoV2EQQaNxnsgJshWsDCyxvH4NqxktxOMps8kGjp8q2Cv8JtblOwa0GmtpnmdAiWIMX9QGWds301nsmA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bagul\\OneDrive\\Documentos\\C#\\Explorando a linguagem\\Explorando a linguagem.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bagul\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
