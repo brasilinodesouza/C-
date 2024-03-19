@@ -1,0 +1,15 @@
+C:\Users\bagul\OneDrive\Documentos\C#\FundamentosPOO\bin\Debug\net8.0\FundamentosPOO.exe
+C:\Users\bagul\OneDrive\Documentos\C#\FundamentosPOO\bin\Debug\net8.0\FundamentosPOO.deps.json
+C:\Users\bagul\OneDrive\Documentos\C#\FundamentosPOO\bin\Debug\net8.0\FundamentosPOO.runtimeconfig.json
+C:\Users\bagul\OneDrive\Documentos\C#\FundamentosPOO\bin\Debug\net8.0\FundamentosPOO.dll
+C:\Users\bagul\OneDrive\Documentos\C#\FundamentosPOO\bin\Debug\net8.0\FundamentosPOO.pdb
+C:\Users\bagul\OneDrive\Documentos\C#\FundamentosPOO\obj\Debug\net8.0\FundamentosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bagul\OneDrive\Documentos\C#\FundamentosPOO\obj\Debug\net8.0\FundamentosPOO.AssemblyInfoInputs.cache
+C:\Users\bagul\OneDrive\Documentos\C#\FundamentosPOO\obj\Debug\net8.0\FundamentosPOO.AssemblyInfo.cs
+C:\Users\bagul\OneDrive\Documentos\C#\FundamentosPOO\obj\Debug\net8.0\FundamentosPOO.csproj.CoreCompileInputs.cache
+C:\Users\bagul\OneDrive\Documentos\C#\FundamentosPOO\obj\Debug\net8.0\FundamentosPOO.sourcelink.json
+C:\Users\bagul\OneDrive\Documentos\C#\FundamentosPOO\obj\Debug\net8.0\FundamentosPOO.dll
+C:\Users\bagul\OneDrive\Documentos\C#\FundamentosPOO\obj\Debug\net8.0\refint\FundamentosPOO.dll
+C:\Users\bagul\OneDrive\Documentos\C#\FundamentosPOO\obj\Debug\net8.0\FundamentosPOO.pdb
+C:\Users\bagul\OneDrive\Documentos\C#\FundamentosPOO\obj\Debug\net8.0\FundamentosPOO.genruntimeconfig.cache
+C:\Users\bagul\OneDrive\Documentos\C#\FundamentosPOO\obj\Debug\net8.0\ref\FundamentosPOO.dll
