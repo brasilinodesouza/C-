@@ -2,10 +2,25 @@
 using FundamentosPOO.Models;
 
 
-ContaCorrente c1 = new ContaCorrente(123, 1000);
-c1.ExibirSaldo();
-c1.Sacar(1001);
-c1.ExibirSaldo();
+// Aluno a1 = new Aluno();
+// a1.Nome = "Neto";
+// a1.Idade = 30;
+// a1.Nota = 10;
+// a1.Apresentar();
+
+// Professor p1 = new Professor();
+// p1.Nome = "Souza";
+// p1.Idade = 50;
+// p1.Salario = 1000.00;
+// p1.Apresentar();
+
+
+
+
+// ContaCorrente c1 = new ContaCorrente(123, 1000);
+// c1.ExibirSaldo();
+// c1.Sacar(1001);
+// c1.ExibirSaldo();
 
 
 
