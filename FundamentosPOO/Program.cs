@@ -2,6 +2,21 @@
 using FundamentosPOO.Models;
 
 
+Corrente c = new Corrente();
+
+
+
+c.Creditar(232);
+c.ExibirSaldo();
+
+
+
+
+
+
+
+
+
 // Aluno a1 = new Aluno();
 // a1.Nome = "Neto";
 // a1.Idade = 30;
