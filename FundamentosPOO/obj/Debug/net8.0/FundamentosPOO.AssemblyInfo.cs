@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FundamentosPOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ab1fcf4c43a3e02831ddca6b136746713cb43fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62f7b71eccfd060f8aa9eb494fdf6fb868bdaea7")]
 [assembly: System.Reflection.AssemblyProductAttribute("FundamentosPOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FundamentosPOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

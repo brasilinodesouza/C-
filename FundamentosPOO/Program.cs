@@ -2,12 +2,35 @@
 using FundamentosPOO.Models;
 
 
-Corrente c = new Corrente();
+int x = 10;
+
+if (x > 5)
+{
+    x = x+5;
+}
+else 
+{
+    x = x-5;
+}
 
 
 
-c.Creditar(232);
-c.ExibirSaldo();
+
+
+
+
+
+
+
+
+System.Console.WriteLine(x);
+
+// Corrente c = new Corrente();
+
+
+
+// c.Creditar(232);
+// c.ExibirSaldo();
 
 
 
